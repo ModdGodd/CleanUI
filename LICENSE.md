@@ -1,4 +1,4 @@
-Tritium License
+CleanUI License
 
 Copyright (c) 2025 Evaan Chowdhry
 
