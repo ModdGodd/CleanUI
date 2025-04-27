@@ -1,7 +1,7 @@
-# Tritium
+# CleanUI
 A custom Hydrogen UI made in Electron
 
-## Features
+## Features (From Tritium)
 - Script hub
 - Auto execute
 - Open source
@@ -12,5 +12,5 @@ A custom Hydrogen UI made in Electron
 
 Run 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Phantom8015/Tritium/refs/heads/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ModdGodd/CleanUI/refs/heads/main/install.sh | bash
 ```
