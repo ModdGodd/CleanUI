@@ -14,7 +14,7 @@ else
   echo "CleanUI has been deleted. Proceeding with installation."
 fi
 echo "Downloading CleanUI..."
-curl -L -o "/tmp/CleanUI/CleanUI.zip" "https://github.com/ModdGodd/CleanUI/releases/download/v2.0.0/CleanUI-2.0.0-arm64-mac.zip"
+curl -L -o "/tmp/CleanUI/CleanUI.zip" "https://github.com/ModdGodd/CleanUI/releases/download/v0.1.0/CleanUI-0.1.0-arm64-mac.zip"
 echo "Extracting CleanUI..."
 unzip -o "/tmp/CleanUI/CleanUI.zip" -d "/tmp/CleanUI"
 mv -f "/tmp/CleanUI/CleanUI.app" "/Applications"
